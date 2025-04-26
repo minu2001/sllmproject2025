@@ -109,7 +109,7 @@ OpenChat 3.5는 7B 규모의 대형 모델이기 때문에, 성능 최적화를 
 
 ## 🏷️ Korean (한국어 질문)
 
-![openchat_korean](.\img_file\openchat_korean.png)
+![openchat_korean](./img_file/openchat_korean.png)
 
 **질문**  
 이순신은 누구야?
@@ -134,7 +134,7 @@ OpenChat 3.5는 이순신에 대해 기본적인 설명은 제공했으나,
 
 ## 🏷️ English (영어 질문)
 
-![openchat_english](.\img_file\openchat_english.png)
+![openchat_english](./img_file/openchat_english.png)
 
 **질문**  
 Who is Rockefeller?
